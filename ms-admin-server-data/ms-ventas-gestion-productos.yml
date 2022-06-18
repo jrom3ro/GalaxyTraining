@@ -5,8 +5,8 @@ server:
 spring:
   datasource:
     url: jdbc:oracle:thin:@localhost:1521:xe
-    username: MS_02_2022_PRODUCTOS
-    password: 123456
+    username: dbatsi
+    password: tsystem12345
     driver-class-name: oracle.jdbc.driver.OracleDriver
 
 # Registry Client
